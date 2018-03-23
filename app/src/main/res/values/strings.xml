@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily Panel</string>
+    <string name="sample_top_story_la_text">In Los Angeles, a man was killed by police</string>
+
+    <string name="sample_university_text">University bans fraternity after racist chant</string>
+    <string name="sample_rob_menedez_text">The Justice Department will accuse Senator Robert Menedez of criminal corruption</string>
+    <string name="sample_food_stamp_text">Republicans want to change the food stamp program</string>
+    <string name="sample_ban_bullets_text">Obama wants to ban "M855" bullets</string>
+</resources>
